@@ -1,7 +1,7 @@
 Downloading the Source  
 ===
 1. Repo sync all code with default.xml  
-`repo init -u git://github.com/OnePlusOSS/android.git -b oneplus3T/6.0.1`  
+`repo init -u git://github.com/sp8214/platform_manifest.git -b oos  
 `repo sync`  
 2. Root your device  
 3. Pull the necessary libraries from your device by executing the script `pull_library.sh`  
