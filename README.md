@@ -76,7 +76,7 @@ Alright, so now we’re getting there. I have outlined the basics of what we’r
 
 ##### Initializing the RR repo and downloading the manifest
 
-      $  repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b nougat
+      $  repo init -u https://github.com/sp8214/platform_manifest.git -b Nougat
 
 ##### Syncing the source
 [Hint: This might take a long time as the source is ~20GB]
