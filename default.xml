@@ -499,4 +499,5 @@
 
   <include name="snippets/sp.xml" />
   <include name="snippets/cm.xml" />
+  <include name="snippets/gapps.xml" />
   </manifest>
